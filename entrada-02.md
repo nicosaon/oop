@@ -24,4 +24,4 @@ La tabla la remarqué en un editor de PDF, pero también se puede imprimir y mar
 
 ---
 
-[← Entrada anterior](entrada-01.md) | [Entrada siguiente →](entrada-03.md)
+[← Entrada anterior](entrada-01.md) | [Índice](index.md) | [Entrada siguiente →](entrada-03.md)
