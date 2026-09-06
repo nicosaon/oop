@@ -11,6 +11,9 @@ saldo cuando corresponde. El banco también registra el color del cajero, la mar
 La idea es que antes de pensar cómo programar el sistema, aprendamos a analizarlo identificando sus elementos principales y cómo se relacionan entre ellos. La profe nos dijo que identifiquemos en el texto información como: actores/personas, objetos o entidades, datos/atributos, acciones posibles y
 reglas. Luego hay que relacionar cada acción con quien la realiza y con los objetos o datos que necesita para poder ejecutarse.
 
+---
+
+ [Índice](index.md) | [Entrada siguiente →](entrada-02.md)
 
 
 
