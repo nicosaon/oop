@@ -22,3 +22,6 @@ La tabla la remarqué en un editor de PDF, pero también se puede imprimir y mar
 
 ![Texto resaltado del problema](imagenes/problema_resaltado.png)
 
+---
+
+[← Entrada anterior](entrada-01.md) | [Entrada siguiente →](entrada-03.md)
