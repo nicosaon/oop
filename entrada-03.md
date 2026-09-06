@@ -26,3 +26,7 @@ Todo lo que encontré lo meto tal cual en esta tabla, tratando de relacionar cad
 
 Con esta tabla nos podemos empezar a preguntar qué es lo importante de todo esto. Es decir, ¿cuáles de estos elementos necesito representar para resolver el problema? (Resolver el problema sería hacer un programa que represente todo el sistema creo...)
 
+---
+
+[← Entrada anterior](entrada-02.md) | [Índice](index.md) | [Entrada siguiente →]()
+
